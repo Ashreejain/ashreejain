@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 An enthusiastic Computer Science Graduate with quick learning abilities and positive attitude. Seeking a deserving position where I can contribute to company's growth with my analytical skills while working in a highly challenging competitive environment for the enhancement of my creative abilities and optimum profitability of the organization .
 
-I have good experience in Java, Python, HTML, CSS, Javascript, Flask
+I have pretty good experience working in Java, Python, HTML, CSS, Javascript, Flask, Android, MySQL. also developed products from scratch using these technologies. 
 
-### I’m currently learning ReactJs framework to  amazing projects
+### I’m currently learning ReactJs framework
+
+###  How to reach me: ...
+
+✉️ jainashree5@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/ashree-jain-0b4110146/
