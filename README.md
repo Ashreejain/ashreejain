@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ashree Jain
+### Hello 👋, I am Ashree Jain
 
 <!--
 **Ashreejain/ashreejain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,5 +27,6 @@ I have pretty good experience working in Java, Python, HTML, CSS, Javascript, Fl
 
 ###  How to reach me: ...
 
-✉️ jainashree5@gmail.com
+✉️: jainashree5@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/ashree-jain-0b4110146/
